@@ -1,0 +1,14 @@
+*.py[co]
+*.egg-info
+/.cache
+/.coverage
+/.mr.developer.cfg
+/coverage.xml
+/bin/*
+/build/*
+/coverage/*
+/develop-eggs/*
+/dist/*
+/eggs/*
+/etc
+/.installed.cfg
